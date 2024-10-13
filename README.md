@@ -4,7 +4,7 @@
 
 <h1 align="center">🔐 Enregistrement auprès du serveur C2 - Botnet Iris</h1>
 
-- **L'enregistrement des bots auprès du serveur de commande et de contrôle (**C2**) dans **Iris** s'effectue selon des protocoles et méthodes avancés, garantissant une efficacité optimale dans la gestion et le contrôle des appareils compromis.
+- L'enregistrement des bots auprès du serveur de commande et de contrôle (**C2**) dans **Iris** s'effectue selon des protocoles et méthodes avancés, garantissant une efficacité optimale dans la gestion et le contrôle des appareils compromis.
 
 <h1 align="center">🌐 Connexion au Serveur C2</h1>
 
