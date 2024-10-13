@@ -1,3 +1,5 @@
+![Logo]()
+
 # 🔐 Enregistrement auprès du serveur C2 - Botnet Iris
 
 L'enregistrement des bots auprès du serveur de commande et de contrôle (**C2**) dans **Iris** repose sur plusieurs protocoles et méthodes spécifiques.
