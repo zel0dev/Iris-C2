@@ -1,5 +1,3 @@
-<h1 align="center">Iris C2 - By Zel0dev</h1>
-
 <h1 align="center">🔐 Enregistrement auprès du serveur C2 - Botnet Iris 🔐</h1>
 
 <p align="center">
