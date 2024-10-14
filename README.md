@@ -1,6 +1,4 @@
-<h1 align="center">Iris C2 - Created By Zekrom X Zel0dev</h1>
-
-![image](https://github.com/user-attachments/assets/968c5340-6b6b-474b-ac2b-ec740248e0c9)
+<h1 align="center">Iris C2 - By Zel0dev</h1>
 
 <h1 align="center">🔐 Enregistrement auprès du serveur C2 - Botnet Iris 🔐</h1>
 
